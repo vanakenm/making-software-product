@@ -64,6 +64,38 @@ Among the things: I don't care about your market size if you can't explain to me
 
 ---
 
+## About 'ideas'
+
+* We talk a lot about ideas
+* How to protect them
+* How valuable their are
+
+---
+
+### The reality
+
+> "Nobody is going to steal your shitty idea"
+
+> Adeo Ressi
+
+---
+
+### They are not so valuable
+
+* They are only about the solution
+* They will probably change
+* Execution matter much more
+
+---
+
+### You should talk more than protect them
+
+* Get feedback
+* You are not your idea
+* You have much more than your idea
+
+---
+
 ![plan](images/businessplan.jpg)
 
 ---
@@ -115,37 +147,6 @@ Note:
 I failed miserably at creating a product for HR (I know nothing about HR)
 My current company make software for public health. Our CEO and most of our business people are public health specialists
 
----
-
-## Interlude: About 'ideas'
-
-* We talk a lot about ideas
-* How to protect them
-* How valuable their are
-
----
-
-### The reality
-
-> "Nobody is going to steal your shitty idea"
-
-> Adeo Ressi
-
----
-
-### They are not so valuable
-
-* They are only about the solution
-* They will probably change
-* Execution matter much more
-
----
-
-### You should talk more than protect them
-
-* Get feedback
-* You are not your idea
-* You have much more than your idea
 
 ---
 
