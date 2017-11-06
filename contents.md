@@ -362,9 +362,15 @@ This is not linear - it's exponential.
 
 ---
 
-### Collaboration vs Contracts
+### Collaboration vs Contracts (1)
 
 > Remember that every minute spent arguing over who is right is a minute lost for your project. Be sure it's worth it.
+
+---
+
+### Collaboration vs Contracts (2)
+
+> A good contract will at best allow you to get out of a bad situation at a limited cost - it will never by itself make the collaboration better
 
 ---
 
