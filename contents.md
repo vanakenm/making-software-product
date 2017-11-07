@@ -338,9 +338,9 @@ This is not linear - it's exponential.
 ### Fixed price
 
 * Looks like a good idea
-* Almost impossible for all but the simplest (= shortest) projects
-* Risky: Who decide if/when it is "done"?
+* Almost impossible for all but the simplest (= shortest) project
 * Require very detailed specification
+* Risky: Who decide if/when it is "done"?
 * Risky (2): Who can say it's per the specification or not?
 
 ---
@@ -354,6 +354,12 @@ This is not linear - it's exponential.
 ### Collaboration vs Contracts (2)
 
 > A good contract will at best allow you to get out of a bad situation at a limited cost - it will never by itself make the collaboration better
+
+---
+
+### Collaboration vs Contracts (3)
+
+> One thing you absolutely need is an IP transfer clause - can be pretty simple
 
 ---
 
@@ -386,22 +392,25 @@ As a **user category** I want **given functionality** so I can get **benefit**
 
 ### Why
 
-* Simple
 * Put the user first
 * Observable
-* Force to think about the benefit
+* Benefit, not feature oriented
 
 ---
 
-### Example (AirBnB)
+### Example 1
 
 > As a **tourist** I want **see a list of flat available in the city I'm going to with their rate & location** so I can **see the one best for my own tastes & price range**
 
+What software/company could this be &#9072;
+
 ---
 
-### Example (Accounting Software)
+### Example 2
 
 > As a **company owner or freelance** I want **see a list of my unpaid invoices** so I can  **get them paid quicker**
+
+What software/company could this be &#9072;
 
 ---
 
