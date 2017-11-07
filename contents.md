@@ -10,11 +10,11 @@
 
 ---
 
-### Show of hands: who has a business idea?
+### Who has a business idea? &#9995;
 
 ---
 
-### Show of hands: who had a (basic) programming course?
+### Who had a (basic) programming course? &#9995; 
 
 ---
 
@@ -25,20 +25,6 @@
 * Co-founder of [PullReview](http://pullreview.com)
 * Coach at [LeWagon](http://www.lewagon.org)
 * CTO at [Bluesquare](http://www.bluesquarehub.com)
-
----
-
-![](images/other-side.jpg)
-
-> I'm from the other side. I'm here to help.
-
----
-
-## Why
-
-* Moved my activity from big companies to startups
-* Met a lot of business owners those last 6 years
-* This is a summary from those discussions
 
 ---
 
@@ -56,7 +42,7 @@ This is not about software.
 
 ---
 
-## What do you need to know before starting a business?
+## What do you need to know before starting a business &#9072;
 
 Note:
 Let's ask the audience & note what they say
@@ -64,7 +50,7 @@ Among the things: I don't care about your market size if you can't explain to me
 
 ---
 
-## About 'ideas'
+## About &#128161;
 
 * We talk a lot about ideas
 * How to protect them
@@ -92,7 +78,7 @@ Among the things: I don't care about your market size if you can't explain to me
 
 * Get feedback
 * You are not your idea
-* You have much more than your idea
+* It won't help anyway
 
 ---
 
@@ -131,7 +117,7 @@ The closest thing I know to an "app for everyone" is Facebook. You are not Faceb
 
 ---
 
-### Being specific is good
+### Being specific is good, not bad
 
 * Easier to find ("watering hole")
 * More consistent in their problems
@@ -147,10 +133,9 @@ Note:
 I failed miserably at creating a product for HR (I know nothing about HR)
 My current company make software for public health. Our CEO and most of our business people are public health specialists
 
-
 ---
 
-### What is -your- audience?
+### What is -your- audience &#9072;
 
 ---
 
@@ -160,7 +145,13 @@ My current company make software for public health. Our CEO and most of our busi
 
 ---
 
-### What we are looking for
+### Don't jump to solutions
+
+---
+
+### What's your audience problem(s) &#9072;
+
+Note:
 
 * It may not be the one you think
 * There may be a bigger one
@@ -210,7 +201,7 @@ My current company make software for public health. Our CEO and most of our busi
 
 ---
 
-### What problem are -you- attempting to solve?
+### What problem are -you- attempting to solve &#9072;
 
 ---
 
@@ -247,7 +238,7 @@ My current company make software for public health. Our CEO and most of our busi
 
 ---
 
-### Pitch as a summary
+### "Elevator Pitch" as a summary
 
 ![pitch](images/pitch.jpg)
 
@@ -266,26 +257,22 @@ by **developing it themselves with our coaches help**
 ### Example 2
 
 My company, **Bluesquare**<br>
-is developping **Web Application**<br>
-to help **ministries of health in low income countries**<br>
-to **encourage good behaviour from health centers**<br>
-by **giving them money based on the value they provide to the population**
+is developping **Web Applications**<br>
+that helps **ministries of health in low income countries**<br> 
+to **improve the quality of care in health centers**<br>
+by **giving them money based on their performance**
 
 ---
 
-### Let's try!
+### Let's try! &#9072;
 
 ---
 
-## Definition
+## MVP?
 
 * **Minimal**: not a dream, not even a v1
 * **Viable**: able to attract/interest users
 * **Product**: providing value (entertainment/productivity/whatever)
-
----
-
-### It has to be used by real users to be useful
 
 ---
 
@@ -311,10 +298,6 @@ Software puts typical economical models on their heads
 &pi; = (P - VC) * Q - FC
 
 > But in software VC ~= 0
-
----
-
-## The Grim Situation
 
 ---
 
