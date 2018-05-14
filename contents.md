@@ -20,6 +20,11 @@
 
 ---
 
+> I've been developing software for the last 15 years
+> I'm from the other side. I'm here to help.
+
+---
+
 ## Agenda
 
 1.  Getting your product
