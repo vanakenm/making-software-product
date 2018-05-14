@@ -10,14 +10,6 @@
 
 ---
 
-### Who has a business idea? &#9995;
-
----
-
-### Who had a (basic) programming course? &#9995; 
-
----
-
 ## Me
 
 * Martin Van Aken - [joyouscoding.com](http://www.joyouscoding.com)
@@ -30,8 +22,9 @@
 
 ## Agenda
 
-1. Getting your product
-1. Getting software done
+1.  Getting your product
+2.  Finding developers
+3.  Getting software done
 
 --
 
@@ -50,7 +43,7 @@ Among the things: I don't care about your market size if you can't explain to me
 
 ---
 
-## About &#128161;
+## About 💡
 
 * We talk a lot about ideas
 * How to protect them
@@ -197,7 +190,7 @@ Note:
 
 ### Fail fast
 
->  I understand you don't want to hear your idea is bad (or that you are not solving any problem). But let's be honest - if it is actually bad, better to know it as early as possible
+> I understand you don't want to hear your idea is bad (or that you are not solving any problem). But let's be honest - if it is actually bad, better to know it as early as possible
 
 ---
 
@@ -258,7 +251,7 @@ by **developing it themselves with our coaches help**
 
 My company, **Bluesquare**<br>
 is developping **Web Applications**<br>
-that helps **ministries of health in low income countries**<br> 
+that helps **ministries of health in low income countries**<br>
 to **improve the quality of care in health centers**<br>
 by **giving them money based on their performance**
 
@@ -283,21 +276,96 @@ You need to sell to 1 person before selling to 1000
 
 --
 
-# 2. Getting Software Done
+# 2. Finding ~~nemo~~ developers
 
 ---
 
-## SaaS & Economics 101
-
-Software puts typical economical models on their heads
+## Technical Cofounders
 
 ---
 
-### Profit
+### Startup
 
-&pi; = (P - VC) * Q - FC
+A startup is a company whose main product is a software.
 
-> But in software VC ~= 0
+---
+
+### Are you looking for a Cofounder? (1)
+
+If you are not ready to let shares go, you’re not looking for a Cofounder - you are looking for a developer but you don’t want to pay.
+
+---
+
+### What about 50%?
+
+I'll be building the software, what are you bringing? (hint: there are a lot of good answers to that question, but "the idea" is not one of them).
+
+As a starting company, your stock is worth basically nothing - in a sector which is rewarding well, this is a difficult situation.
+
+---
+
+### Let's do the math
+
+* 2/3 startup fail (exit value = 0)
+* An experienced dev can get 100K€ a year
+* The dev get 50% of the shares
+
+For this to work, the expected value after three years need to be around 2M€ - else it's a losing bet
+
+---
+
+### Are you looking for a Cofounder? (2)
+
+If you have defined everything, you’re not looking for a Cofounder - you are looking for a developer but you don’t want to pay.
+
+---
+
+### You are not going to find one
+
+Only 25% of founders are technical. Most of those have ideas themselves they want to make happen.
+
+---
+
+### Summary (1)
+
+> You are competing with other people with ideas - work your pitch. Show your unfair advantage. Think about what would make someone invest her sweat and skills at your company and not someone's else.
+
+---
+
+### Summary (2)
+
+> You can't bet your business on finding a technical cofounder in a specific amount of time
+
+---
+
+## Freelances & Agencies
+
+---
+
+### Pros
+
+* Used to deliver
+* Experimented
+* Can stop/encore when you want
+* Can switch for other skills
+
+---
+
+### Cons
+
+* Hopping between projects
+* Expensive (day rate ~ 500€)
+* Quickly to 5-10K
+
+---
+
+## General recommandations
+
+Freelances are the safest bet (best value for money to get started) - but they get expensive really fast, which means you need to optimize their time.
+
+--
+
+# 3. Getting Software Done
 
 ---
 
@@ -400,7 +468,7 @@ As a **user category** I want **given functionality** so I can get **benefit**
 
 ### Example 1
 
-> As a **tourist** I want **see a list of flat available in the city I'm going to with their rate & location** so I can **see the one best for my own tastes & price range**
+> As a **tourist** I want **see a list of flats available in the city I'm going to with their rate & location** so I can **see the one best for my own tastes & price range**
 
 What software/company could this be &#9072;
 
@@ -408,7 +476,7 @@ What software/company could this be &#9072;
 
 ### Example 2
 
-> As a **company owner or freelance** I want **see a list of my unpaid invoices** so I can  **get them paid quicker**
+> As a **company owner or freelance** I want **see a list of my unpaid invoices** so I can **get them paid quicker**
 
 What software/company could this be &#9072;
 
@@ -519,7 +587,7 @@ Real horror story: an entrepreneur in Brussels paid more than 30K to have an app
 * Rinse & Repeat
 
 Note:
-Better to lose 2-5K than 50K
+Better to lose 5-20K than 50K
 
 ---
 
@@ -545,5 +613,6 @@ Most of this comes from various sources:
 * Steve Blank "Four Steps to Epiphany"
 * Adeo Ressi "One sentence pitch"
 * [Problem interview scripts](http://startitup.co/guides/285/problem-interview-script)
-* Slides are available here [joyouscoding.com/workshop-mvp/](http://joyouscoding.com/from-idea-to-mvp/)
 * [Technical cofounders](https://techcrunch.com/2012/04/15/stop-looking-for-a-technical-co-founder/)
+
+Slides are available here [http://joyouscoding.com/making-software-product](http://joyouscoding.com/making-software-product)
