@@ -641,3 +641,4 @@ Most of this comes from various sources:
 * [Technical cofounders](https://techcrunch.com/2012/04/15/stop-looking-for-a-technical-co-founder/)
 
 Slides are available here [http://joyouscoding.com/making-software-product](http://joyouscoding.com/making-software-product)
+One page version [here](https://github.com/vanakenm/making-software-product/blob/gh-pages/contents.md)
