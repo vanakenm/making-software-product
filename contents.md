@@ -20,20 +20,40 @@
 
 ---
 
-> I've been developing software for the last 15 years
-> I'm from the other side. I'm here to help.
+### I speak very fast
+
+## but you can interrupt me
+
+---
+
+### I have a weird english accent
+
+## I hope it's funny too
+
+---
+
+> I'm currently renovating my house. Discussions with the entrepreneur are difficult
+
+* For me, this is my whole life - for him it's just a small project
+* He's being doing that for 15 years - that's the first and probably last time for me
+
+---
+
+### I've been developing software for the last 15 years
+
+## I'm from the other side. I'm here to help.
 
 ---
 
 ## Agenda
 
-1.  Getting your product
+1.  Defining your product
 2.  Finding developers
 3.  Getting software done
 
 --
 
-# 1. Getting your product
+# 1. Defining your product
 
 Note:
 This is not about software.
